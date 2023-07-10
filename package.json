@@ -1,4 +1,13 @@
 {
   "name": "middleware",
-  "packageManager": "yarn@3.6.1"
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "@types/node": "^20.4.1",
+    "eslint": "^8.44.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/eslint": "^8"
+  }
 }
